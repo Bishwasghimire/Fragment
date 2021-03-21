@@ -1,2 +1,2 @@
-## Fragment in entire activity lifecycle
-![](app/src/main/res/drawable/task1.gif)
+## Added rating bar
+![](app/src/main/res/drawable/coding.gif)
